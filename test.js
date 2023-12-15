@@ -1,5 +1,5 @@
-   function slff(){
+function functionName() {
 
-        window.location.replace("https://www.google.com");
+document.write("You are learning how to call JavaScript function in html");
 
-   }
+        }
