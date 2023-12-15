@@ -1,5 +1,5 @@
 
 functionName = function() {
 
-window.location.replace("https://copilot.microsoft.com/");
+window.location.replace("https://chat.openai.com/");
         }
